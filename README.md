@@ -1,3 +1,5 @@
+[![CI](https://github.com/opendistro-for-elasticsearch/security-advanced-modules/workflows/CI/badge.svg?branch=master)](https://github.com/opendistro-for-elasticsearch/security-advanced-modules/actions)
+
 # Open Distro For Elasticsearch Security Advanced Modules
 
 The Open Distro For Elasticsearch Security Advanced Modules builds on Open Distro for Elasticsearch Security to provide additional advanced features for securing your cluster. 
